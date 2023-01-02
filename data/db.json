@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Mouse Razer Viper Mini",
+      "price": "200.00",
+      "id": 1
+    },
+    {
+      "name": "Teclado Corsair K68",
+      "price": "1100.00",
+      "id": 2
+    },
+    {
+      "name": "SSD NVME",
+      "price": "100.00",
+      "id": 3
+    }
+  ]
+}
